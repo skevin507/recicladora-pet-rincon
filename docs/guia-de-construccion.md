@@ -65,3 +65,4 @@ No hace falta desarmarla toda, pero si quieres reutilizar lo máximo posible, pu
 
 - La máquina **no necesita un firmware especial**: usa el de la Ender-3.
 - Es normal que la pantalla muestre una **temperatura negativa en la cama**, porque su termistor no se conecta.
+- Para empezar a hacer filamento, sigue [preparar la botella y hacer filamento](preparar-botella-y-uso.md).

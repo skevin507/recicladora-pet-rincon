@@ -54,6 +54,7 @@ Al construirla me encontré con dos problemas que no esperaba:
 1. Lee la [guía de construcción](docs/guia-de-construccion.md): los pasos en orden, con mis notas.
 2. Revisa [tornillos y presupuesto](docs/tornillos-y-presupuesto.md) **antes de empezar**, para comprar todo de una vez.
 3. Revisa [conexiones de la placa](docs/conexiones-de-la-placa.md): qué se usa de la Ender-3 y qué no.
+4. Cuando la máquina esté lista, sigue [preparar la botella y hacer filamento](docs/preparar-botella-y-uso.md).
 
 **Necesitas:** una Ender-3 (aunque no funcione como impresora), otra impresora para imprimir las piezas, tornillos M4 y tuercas en T, botellas PET limpias, una pistola de calor y unas 2 horas por botella grande.
 
